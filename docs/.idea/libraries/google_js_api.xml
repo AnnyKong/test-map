@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="google js api" type="javaScript">
+    <CLASSES />
+    <DOCUMENTATION>
+      <root url="https://maps.googleapis.com/maps/api/js?key=AIzaSyDlKaV-p25FNLcFqXBHWHHvE3PN4CmixLA&amp;callback=initMap" />
+    </DOCUMENTATION>
+    <SOURCES />
+  </library>
+</component>
