@@ -5,5 +5,5 @@ app/lib/
 tmp
 .DS_Store
 .idea
-docs/feeds/*
+# docs/feeds/*
 transitfeed/*
