@@ -6,4 +6,4 @@ tmp
 .DS_Store
 .idea
 # docs/feeds/*
-transitfeed/*
+# transitfeed/*
